@@ -3,7 +3,6 @@
 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 🔭 I’m currently studing at [University of Information Technology](https://www.facebook.com/UIT.Fanpage).
-- 🌱 I'm on my way to becoming a Business Analyst and Product Owner.
 - 📫 How to reach me: [thekiet.contact@gmail.com](mailto:thekiet.contact@gmail.com)
 
 <h3>Connect with me:</h3>
